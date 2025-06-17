@@ -1,0 +1,48 @@
+body{
+    background-color: #617B91 ;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: "Playfair Display";
+    font-size: ;
+    color: #fff;
+}
+button{
+    font-family: "Playfair Display";
+    border-radius: 30px;
+    font-size: 20px;
+    border: transparent;
+    background-color: #4b6377;
+    color: #fff;
+    margin-left: 20px;
+}
+input{
+    margin-left: 20px;
+    border-radius: 10px;
+    border: transparent;
+    height: 30px;
+}
+form{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: "Playfair Display";
+    color: #fff;
+}
+button:hover{
+    background-color: #7c9bb4;
+}
+label{
+    margin-left: 20px;
+}
+#resultado{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+img{
+    padding-left: 500px;
+   
+}
